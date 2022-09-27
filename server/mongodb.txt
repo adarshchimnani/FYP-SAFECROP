@@ -1,0 +1,5 @@
+DATABASE: safecropDB
+user: admin
+pass: admin
+
+mongodb+srv://admin:admin@sandbox.tvooui3.mongodb.net/?retryWrites=true&w=majority
